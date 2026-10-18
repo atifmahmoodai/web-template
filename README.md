@@ -2,6 +2,8 @@
 
 A free collection of six responsive, self-contained website templates and a gallery with category filters, live previews, and downloads.
 
+[Open the live site](https://forma-web-pro.atifmahmood131.chatgpt.site) (owner-private Sites deployment).
+
 ## Run locally
 
 No dependencies or build step are required. Serve `dist/` with any static web server, for example:
@@ -29,4 +31,4 @@ Forms, shopping bags, billing controls, and attendance inquiries are front-end d
 
 ## License
 
-MIT. See `dist/LICENSE.txt`.
+MIT. See [LICENSE](LICENSE).

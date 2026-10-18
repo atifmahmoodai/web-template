@@ -2,3 +2,7 @@ work/
 node_modules/
 *.tar.gz
 *.log
+.env
+.env.*
+!.env.example
+.DS_Store
